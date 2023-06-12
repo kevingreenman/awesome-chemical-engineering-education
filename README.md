@@ -81,6 +81,7 @@ Please be respectful of the people who have created these resources. If you want
 * [Chemical Engineering Guy](https://www.chemicalengineeringguy.com/) - website with paid online courses. Also has a [YouTube channel](https://www.youtube.com/@ChemicalEngineeringGuy).
 * [LearnChemE](https://learncheme.com/) - extensive collection of screencasts, simulations, modules, virtual labs, etc. from the University of Colorado Boulder (also on [YouTube](https://www.youtube.com/@LearnChemE)).
 * [Learning Chemical Engineering](https://learnche.org/) - by Kevin Dunn, former professor at McMaster University.
+* [MATLAB Start to Finish](https://jacksonburns.github.io/MATLAB-Start-to-Finish/) - MATLAB-focused primer for undergraduate thermodynamics students by Jackson Burns and contributors.
 * [Open ChemE](https://opencheme.github.io/) - open resources compiled at the University of British Columbia.
 * [TeachOpenCADD](https://projects.volkamerlab.org/teachopencadd/index.html) - a teaching platform for computer-aided drug design by the Volkamer Lab.
 * [Visual Encyclopedia of Chemical Engineering Equipment](https://encyclopedia.che.engin.umich.edu/) - from the University of Michigan. Articles, photographs, drawings, animations, and videos that demonstrate what equipment looks like and how it works.
