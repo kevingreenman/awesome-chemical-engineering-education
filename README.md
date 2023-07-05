@@ -58,6 +58,7 @@ Please be respectful of the people who have created these resources. If you want
     * None yet...please [contribute](CONTRIBUTING.md) if you know of any!
 * **Safety**
     * [Safety and Chemical Engineering Education (SAChE) from AIChE](https://www.aiche.org/ccps/education/safety-and-chemical-engineering-education-sache-certificate-program)
+    * [SAFEChE - Process Safety Across the Chemical Engineering Curriculum](https://safeche.engin.umich.edu/) - University of Michigan, originally developed by Prof. H. Scott Fogler, now led by Dr. Christopher Barr.
 * **Other**
     * [06-640 Molecular Simulation](https://github.com/jkitchin/s16-06640) - Carnegie Mellon University, Prof. John Kitchin, Spring 2016. Older [material](https://github.com/jkitchin/dft-course) also available.
     * [CBE20290 Career Choices for Chemical Engineers](https://github.com/wmfschneider/CBE20290) - University of Notre Dame, Prof. William Schneider.
@@ -77,6 +78,8 @@ Please be respectful of the people who have created these resources. If you want
 
 ## Websites
 * [AIChE Academy](https://www.aiche.org/academy) - online courses, webinars, and more from the American Institute of Chemical Engineers.
+* [AIChE Concepts Warehouse](https://conceptwarehouse.tufts.edu/cw/CW.php) - Tufts University / Oregon State University.
+* [ASEE Chemical Engineering Division - Resources - Where to start?](http://ched.asee.org/resources/) - list of teaching resources.
 * [CACHE](https://cache.org/teaching-resources-center) - Computer Aids for Chemical Engineering Education teaching resource center.
 * [Chemical Engineering Guy](https://www.chemicalengineeringguy.com/) - website with paid online courses. Also has a [YouTube channel](https://www.youtube.com/@ChemicalEngineeringGuy).
 * [LearnChemE](https://learncheme.com/) - extensive collection of screencasts, simulations, modules, virtual labs, etc. from the University of Colorado Boulder (also on [YouTube](https://www.youtube.com/@LearnChemE)).
