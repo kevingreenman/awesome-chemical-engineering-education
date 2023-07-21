@@ -31,6 +31,9 @@ Please be respectful of the people who have created these resources. If you want
     * [06-325 Numerical Methods and ML for ChE](https://github.com/ulissigroup/F22-06-325) - Carnegie Mellon University, Prof. Zachary Ulissi, Fall 2022.
     * [Numerical Methods and Statistics](https://github.com/whitead/numerical_stats) - University of Rochester, Prof. Andrew White.
     * [Python for Chemical Engineers](https://github.com/CAChemE/Python-Chemical-Engineers) - CAChemE
+    * [MO Book](https://github.com/mobook/MO-book) - Mathematical Opimization
+    * [HiGHS](https://github.com/ERGO-Code/HiGHS) - Linear optimization software
+    * [Numerical methods](https://github.com/PSORLab/Chemical_Engineering_Analysis_Notebooks) 
 * **Thermodynamics**
     * [CBE60553 - Advanced Chemical Engineering Thermodynamics](https://github.com/wmfschneider/CBE60553) - University of Notre Dame, Prof. William Schneider.
 * **Fluid Mechanics**
@@ -68,6 +71,8 @@ Please be respectful of the people who have created these resources. If you want
     * [Data Driven Process Systems Engineering](https://github.com/DDPSE/GT_DataDrivenPSE_Course) - Georgia Tech, Prof. Fani Boukouvala.
     * [Introduction to Experimental and Computational Research in Chemical Engineering](https://journals.flvc.org/cee/article/view/115593)
     * Machine Learning for Molecular Engineering (MIT) - [Spring 2021](https://github.com/wwang2/ML4MolEng), [Spring 2022](https://github.com/vikram-sundar/ML4MolEng_Spring2022), [Spring 2023](https://github.com/YitongTseo/ML4MolEng_Spring2023)
+    * [DWSIM - Process Eng](https://github.com/virajdesai0309/DWSim-Repo) - Process Eng. calculation like control valve sizing , hx design etc.
+    * [Chemical Toxicity Prediction](https://github.com/PaccMann/chemical_representation_learning_for_toxicity_prediction) - Chemical Representation Learning for Toxicity Prediction
 
 ## Textbooks
 * [eChem: Computational Chemistry from Laptop to HPC](https://kthpanor.github.io/echem/docs/title.html) - A notebook exploration of quantum chemistry
@@ -75,6 +80,7 @@ Please be respectful of the people who have created these resources. If you want
 * [Elements of Chemical Reaction Engineering](http://websites.umich.edu/~elements/5e/index.html) - by H. Scott Fogler
 * [Machine Learning in Chemical Engineering (MLCE)](https://edgarsmdn.github.io/MLCE_book) - made by the [Process Systems Engineering group](https://www.mpi-magdeburg.mpg.de/pse) at the Otto von Guericke University / MPI Magdeburg and the [Optimisation and Machine Learning for Process Systems Engineering group](https://www.imperial.ac.uk/optimisation-and-machine-learning-for-process-engineering/about-us/) at Imperial College London
 * [pycse - Python Computations in Science and Engineering](https://kitchingroup.cheme.cmu.edu/pycse/) - by John Kitchin
+* [Textbooks, class notes and Lab practicals](https://github.com/vmm221313/ChemicalEngineering_IITKGP) - Chemical Course by IITK
 
 ## Websites
 * [AIChE Academy](https://www.aiche.org/academy) - online courses, webinars, and more from the American Institute of Chemical Engineers.
@@ -97,6 +103,12 @@ Please be respectful of the people who have created these resources. If you want
 * [Process Dynamics Engine](https://github.com/OpenChemE/Process-Dynamics-Engine) - online, real-time simulator for process control models described by transfer functions or state space representations.
 * [pychemqt](https://github.com/jjgomera/pychemqt) - free software tool for calculation and design of unit operations in chemical engineering.
 * [Reaction Mechanism Generator (RMG)](https://github.com/ReactionMechanismGenerator) - automatic chemical reaction mechanism generation.
+* [Psychrochart](https://github.com/azogue/psychrochart) - interactive psychrometric charts and overlay information
+* [pyflowsheet](https://github.com/Nukleon84/pyflowsheet) - python package for drawing process flow diagrams
+* [reaction-network](https://github.com/materialsproject/reaction-network) - Python package for predicting likely inorganic chemical reaction pathways using graph theoretical methods
+* [ASALI](https://github.com/srebughini/ASALI) - reactor modeling
+* [Cantera](https://cantera.org/) - tools for problems involving chemical kinetics, thermodynamics, and transport processes
+* 
 
 ## Journals
 * [Chemical Engineering Education](https://journals.flvc.org/cee)
@@ -104,6 +116,7 @@ Please be respectful of the people who have created these resources. If you want
     * [Summer 2020 Special Issue - CACHE 50th Anniversary](https://journals.flvc.org/cee/issue/view/5698)
 * [Education for Chemical Engineers](https://www.sciencedirect.com/journal/education-for-chemical-engineers)
 * [Journal of Chemical Education](https://pubs.acs.org/journal/jceda8)
+* [Computers & Chemical Engineering](https://www.sciencedirect.com/journal/computers-and-chemical-engineering)
 
 ## People and Organizations on GitHub
 People and organizations on GitHub who have multiple repositories related to chemical engineering courses.
