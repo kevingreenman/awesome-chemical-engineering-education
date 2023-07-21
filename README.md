@@ -33,7 +33,9 @@ Please be respectful of the people who have created these resources. If you want
     * [Python for Chemical Engineers](https://github.com/CAChemE/Python-Chemical-Engineers) - CAChemE
     * [MO Book](https://github.com/mobook/MO-book) - Mathematical Opimization
     * [HiGHS](https://github.com/ERGO-Code/HiGHS) - Linear optimization software
-    * [Numerical methods](https://github.com/PSORLab/Chemical_Engineering_Analysis_Notebooks) 
+    * [Numerical methods](https://github.com/PSORLab/Chemical_Engineering_Analysis_Notebooks)
+    * [Mathematical Modeling of Chemical Processes](https://github.com/imnotdev25/Mathematical-Modeling-of-Chemical-Processes)
+    * [Modeling in Chemical Technology and Biotechnology](https://github.com/sbednarz/modeling)
 * **Thermodynamics**
     * [CBE60553 - Advanced Chemical Engineering Thermodynamics](https://github.com/wmfschneider/CBE60553) - University of Notre Dame, Prof. William Schneider.
 * **Fluid Mechanics**
@@ -49,6 +51,7 @@ Please be respectful of the people who have created these resources. If you want
     * [CHME7340 Chemical Engineering Kinetics and Reactor Design (Grad)](https://github.com/rwest/CHME7340) - Northeastern University, Prof. Richard West.
     * [06-364 Chemical and Reaction Engineering](https://github.com/jkitchin/s17-06364) - Carnegie Mellon University, Prof. John Kitchin, Spring 2017.
     * [06-625 Chemical and Reactive Systems](https://github.com/jkitchin/f16-06625) - Carnegie Mellon University, Prof. John Kitchin, Fall 2016. ([Fall 2015 version](https://github.com/jkitchin/f15-06625) also available).
+    * [Reactor design - Machine Learning approch](https://github.com/jeff-ball/Machine-Learning-Chemical-Engineering-Approach) - AUB, Lebanon
 * **Process Control**
     * [CHBE 356 Process Dynamics and Control](https://opencheme.github.io/CHBE356/) - University of British Columbia. [Winter 2018 tutorials](https://github.com/OpenChemE/Tutorials-2018W2/) and [GitHub](https://github.com/OpenChemE/CHBE356) also available.
     * [CBE30338 Chemical Process Control](https://github.com/jckantor/cbe30338-book) - University of Notre Dame, Prof. Jeffrey Kantor. Integrates materials from previous repos for [CBE30338](https://github.com/jckantor/CBE30338) and [CBE32338](https://github.com/jckantor/CBE32338). Spring [2020](https://github.com/jckantor/CBE30338-Sp2020) and [2021](https://github.com/jckantor/cbe30338-2021) versions also available.
@@ -72,7 +75,7 @@ Please be respectful of the people who have created these resources. If you want
     * [Introduction to Experimental and Computational Research in Chemical Engineering](https://journals.flvc.org/cee/article/view/115593)
     * Machine Learning for Molecular Engineering (MIT) - [Spring 2021](https://github.com/wwang2/ML4MolEng), [Spring 2022](https://github.com/vikram-sundar/ML4MolEng_Spring2022), [Spring 2023](https://github.com/YitongTseo/ML4MolEng_Spring2023)
     * [DWSIM - Process Eng](https://github.com/virajdesai0309/DWSim-Repo) - Process Eng. calculation like control valve sizing , hx design etc.
-    * [Chemical Toxicity Prediction](https://github.com/PaccMann/chemical_representation_learning_for_toxicity_prediction) - Chemical Representation Learning for Toxicity Prediction
+    * [ML CHE](https://github.com/rohan-batra/ML-CHE) - Introduction to Machine Learning for Chemical Engineering (Simutech Winter Project)
 
 ## Textbooks
 * [eChem: Computational Chemistry from Laptop to HPC](https://kthpanor.github.io/echem/docs/title.html) - A notebook exploration of quantum chemistry
@@ -94,10 +97,14 @@ Please be respectful of the people who have created these resources. If you want
 * [Open ChemE](https://opencheme.github.io/) - open resources compiled at the University of British Columbia.
 * [TeachOpenCADD](https://projects.volkamerlab.org/teachopencadd/index.html) - a teaching platform for computer-aided drug design by the Volkamer Lab.
 * [Visual Encyclopedia of Chemical Engineering Equipment](https://encyclopedia.che.engin.umich.edu/) - from the University of Michigan. Articles, photographs, drawings, animations, and videos that demonstrate what equipment looks like and how it works.
+* [DCEKit](https://datachemeng.com/dcekit/) - Data Chemical Engineering toolKit
 
 ## Software and Packages
 * [ChemEng Solved](https://github.com/asanet/chemeng-solved) - Classic problems in chemical engineering solved with matlab.
 * [Chemics](https://github.com/wigging/chemics) - Python package for chemistry and chemical engineering applications.
+* [ht](https://github.com/CalebBell/ht) - Python package for heat transfer in chemical engineering design.
+* [fluids](https://github.com/CalebBell/fluids) - Python package for fluid dynamics in chemical engineering design
+* [thermo](https://github.com/CalebBell/thermo) - Python package for thermodynamics and phase equilibrium in chemical engineering design.
 * [Clapeyron.jl](https://github.com/ClapeyronThermo/Clapeyron.jl) - Julia package for thermodynamic property calculations / equations of state.
 * [OpSim](https://github.com/opsim/opsim) - open source Chemical Engineering Process Simulator with a user friendly drag-and-drop graphical user interface and an underlying high performance simulation engine.
 * [Process Dynamics Engine](https://github.com/OpenChemE/Process-Dynamics-Engine) - online, real-time simulator for process control models described by transfer functions or state space representations.
@@ -108,7 +115,10 @@ Please be respectful of the people who have created these resources. If you want
 * [reaction-network](https://github.com/materialsproject/reaction-network) - Python package for predicting likely inorganic chemical reaction pathways using graph theoretical methods
 * [ASALI](https://github.com/srebughini/ASALI) - reactor modeling
 * [Cantera](https://cantera.org/) - tools for problems involving chemical kinetics, thermodynamics, and transport processes
-* 
+* [Summit](https://github.com/sustainable-processes/summit) - Optimising chemical reactions using machine learning
+* [Peroxide](https://github.com/imnotdev25/Peroxide) - Rust numeric lib similar to numpy
+* [Reactorch](https://github.com/DENG-MIT/reactorch) - pytorch package for differentiable reacting flow simulation
+* [pyMARS](https://github.com/Niemeyer-Research-Group/pyMARS) - python package for chemical kinetic model
 
 ## Journals
 * [Chemical Engineering Education](https://journals.flvc.org/cee)
@@ -138,6 +148,12 @@ People and organizations on GitHub who have multiple repositories related to che
 ## Miscellaneous
 * [ASEE Chemical Engineering Division](http://ched.asee.org/)
 * [The History of Chemical Engineering](https://www.youtube.com/watch?v=aRKyJRAxjpM&ab_channel=CrashCourse) - CrashCourse YouTube video
+* [Drug discovey with AI](https://github.com/benstaf/ChemGAN-challenge)
+* [Chemical Toxicity Prediction](https://github.com/PaccMann/chemical_representation_learning_for_toxicity_prediction) - Chemical Representation Learning for Toxicity Prediction
+* [PID Tuning with Deep learning](https://github.com/emelborp/Process-Identification-and-PID-Tuning-with-Deep-Learning)
+* [chemical regioselectivity prediction via machine learning](https://github.com/Masker-Li/ChemSelML)
+* [machine learning to explain chemical reactions](https://github.com/jjgoings/chem_interp)
+* [Chemical Reaction Yield prediction](https://github.com/rxn4chemistry/rxn_yields)
 
 ## Related GitHub Topics
 * [#chemical-engineering](https://github.com/topics/chemical-engineering)
