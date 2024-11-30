@@ -43,8 +43,9 @@ Please be respectful of the people who have created these resources. If you want
 * **Separations**
   * None yet...please [contribute](CONTRIBUTING.md) if you know of any!
 * **Chemical Kinetics & Reactor Engineering/Design**
-  * [CHBE 355 Kinetics and Reactor Design](https://opencheme.github.io/CHBE355/) - University of British Columbia. ([Winter 2018 tutorials](https://github.com/OpenChemE/Tutorials-2018W2/) also available.)
+  * [CBE 504 Chemical Reaction Engineering](https://github.com/Andrew-S-Rosen/cbe504/blob/main/CBE%20504.pdf) (graduate-level course) - Princeton University, Prof. Andrew Rosen, Fall 2024.
   * [CBE60546 Advanced Chemical Reaction Engineering](https://github.com/wmfschneider/CBE60546) - University of Notre Dame, Prof. William Schneider.
+  * [CHBE 355 Kinetics and Reactor Design](https://opencheme.github.io/CHBE355/) - University of British Columbia. ([Winter 2018 tutorials](https://github.com/OpenChemE/Tutorials-2018W2/) also available).
   * [CHME4510 Chemical Engineering Kinetics and Reactor Design](https://github.com/rwest/CHME4510) - Northeastern University, Prof. Richard West.
   * [CHME7340 Chemical Engineering Kinetics and Reactor Design (Grad)](https://github.com/rwest/CHME7340) - Northeastern University, Prof. Richard West.
   * [06-364 Chemical and Reaction Engineering](https://github.com/jkitchin/s17-06364) - Carnegie Mellon University, Prof. John Kitchin, Spring 2017.
