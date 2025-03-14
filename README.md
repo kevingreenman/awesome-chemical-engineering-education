@@ -72,6 +72,7 @@ Please be respectful of the people who have created these resources. If you want
   * [Data Driven Process Systems Engineering](https://github.com/DDPSE/GT_DataDrivenPSE_Course) - Georgia Tech, Prof. Fani Boukouvala.
   * [Introduction to Experimental and Computational Research in Chemical Engineering](https://journals.flvc.org/cee/article/view/115593)
   * Machine Learning for Molecular Engineering (MIT) - [Spring 2021](https://github.com/wwang2/ML4MolEng), [Spring 2022](https://github.com/vikram-sundar/ML4MolEng_Spring2022), [Spring 2023](https://github.com/YitongTseo/ML4MolEng_Spring2023)
+  * [Computational Problem Solving in the Chemical Sciences](https://rwexler.github.io/comp-prob-solv/intro.html) - Washington University in St. Louis, Prof. Robert Wexler.
 
 ## Textbooks
 
