@@ -36,6 +36,7 @@ Please be respectful of the people who have created these resources. If you want
   * [Python for Chemical Engineers](https://github.com/CAChemE/Python-Chemical-Engineers) - CAChemE
 * **Thermodynamics**
   * [CBE60553 - Advanced Chemical Engineering Thermodynamics](https://github.com/wmfschneider/CBE60553) - University of Notre Dame, Prof. William Schneider.
+  * [CBE710 - Advanced Thermodynamics for Chemical Engineers](https://cersonsky-lab.github.io/cbe710-notes/intro.html#) - University of Wisconsin, Profs. Reid van Lehn, Matt Gebbie, Rose K. Cersonsky
 * **Fluid Mechanics**
   * None yet...please [contribute](CONTRIBUTING.md) if you know of any!
 * **Heat & Mass Transfer**
