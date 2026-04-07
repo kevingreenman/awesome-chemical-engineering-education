@@ -25,7 +25,7 @@ Please be respectful of the people who have created these resources. If you want
   * [ChEn-1070 Introduction to Chemical Engineering](https://github.com/dpploy/chen-1070) - UMass Lowell; Fall 2019; Profs. Manohar and de Almeida.
   * [CHBE220 Founding Principles in Chemical and Biological Engineering I](https://github.com/OpenChemE/CHBE220-OER-Dev) - University of British Columbia.
   * [CHBE 241 Material and Energy Balances](https://chbe241.github.io/) - University of British Columbia, Prof. Jonathan Verrett. And related [resources](https://github.com/OpenChemE/CHBE241).
-* **Computational / Numerical / Math Methods**
+* **Computational / Numerical / Math Methods / AI / ML**
   * [ChEn-3170 Computational Methods in Chemical Engineering](https://github.com/dpploy/chen-3170) - UMass Lowell; Spring 2022; Prof. Valmor F. de Almeida.
   * [06-623 Mathematical Modeling of Chemical Engineering Processes](https://github.com/jkitchin/f21-06623) - Carnegie Mellon University, Prof. John Kitchin, Fall 2021. [Fall 2019](https://github.com/jkitchin/f19-06623) and [Fall 2018](https://github.com/jkitchin/f18-06623) versions also available.
   * [06-681 Data Visualization and Modeling](https://github.com/jkitchin/s22-06681) - Carnegie Mellon University, Prof. John Kitchin, Spring 2022.
@@ -34,6 +34,7 @@ Please be respectful of the people who have created these resources. If you want
   * [06-325 Numerical Methods and ML for ChE](https://github.com/ulissigroup/F22-06-325) - Carnegie Mellon University, Prof. Zachary Ulissi, Fall 2022.
   * [Numerical Methods and Statistics](https://github.com/whitead/numerical_stats) - University of Rochester, Prof. Andrew White.
   * [Python for Chemical Engineers](https://github.com/CAChemE/Python-Chemical-Engineers) - CAChemE
+  * [AI for Chemical Engineers](https://github.com/KaihangShi/AI-for-Chemical-Engineers_UB) - University of Buffalo, Prof. Kaihang Shi.
 * **Thermodynamics**
   * [CBE60553 - Advanced Chemical Engineering Thermodynamics](https://github.com/wmfschneider/CBE60553) - University of Notre Dame, Prof. William Schneider.
   * [CBE710 - Advanced Thermodynamics for Chemical Engineers](https://cersonsky-lab.github.io/cbe710-notes/intro.html#) - University of Wisconsin, Profs. Reid van Lehn, Matt Gebbie, Rose K. Cersonsky
