@@ -36,6 +36,7 @@ Please be respectful of the people who have created these resources. If you want
   * [Python for Chemical Engineers](https://github.com/CAChemE/Python-Chemical-Engineers) - CAChemE
   * [AI for Chemical Engineers](https://github.com/KaihangShi/AI-for-Chemical-Engineers_UB) - University of Buffalo, Prof. Kaihang Shi.
   * [Machine Learning for Molecular Engineering (ML4MolEng)](https://github.com/coleygroup/ML4MolEng) - MIT; Prof. Connor Coley, Prof. Rafael Gomez-Bombarelli, Prof. Ernest Fraenkel, Prof. Joey Davis, Prof. Sergey Ovchinnikov
+    * **Older iterations:** [Spring 2021](https://github.com/wwang2/ML4MolEng), [Spring 2022](https://github.com/vikram-sundar/ML4MolEng_Spring2022), [Spring 2023](https://github.com/YitongTseo/ML4MolEng_Spring2023)
   * [CBE 512: Machine Learning in Chemical Science and Engineering](https://github.com/webbtheosim/CBE512-MLinChmSciEng) - Princeton University; Prof. Michael Webb
   * [MLxChE: Intro to Machine Learning for Chemical Engineers](https://github.com/kspilario/MLxChE) - University of the Philippines, Diliman; Prof. Karl Ezra Pilario
 * **Thermodynamics**
@@ -76,7 +77,6 @@ Please be respectful of the people who have created these resources. If you want
   * [CBE60547 Computational Chemistry](https://github.com/wmfschneider/CBE60547) - University of Notre Dame, Prof. William Schneider. Previous versions available from [2015](https://github.com/wfschneidergroup/computational-chemistry), [2017](https://github.com/wfschneidergroup/CC_Fall_2017), and [2019](https://github.com/wfschneidergroup/CBE60547).
   * [Data Driven Process Systems Engineering](https://github.com/DDPSE/GT_DataDrivenPSE_Course) - Georgia Tech, Prof. Fani Boukouvala.
   * [Introduction to Experimental and Computational Research in Chemical Engineering](https://journals.flvc.org/cee/article/view/115593)
-  * Machine Learning for Molecular Engineering (MIT) - [Spring 2021](https://github.com/wwang2/ML4MolEng), [Spring 2022](https://github.com/vikram-sundar/ML4MolEng_Spring2022), [Spring 2023](https://github.com/YitongTseo/ML4MolEng_Spring2023)
   * [Computational Problem Solving in the Chemical Sciences](https://rwexler.github.io/comp-prob-solv/intro.html) - Washington University in St. Louis, Prof. Robert Wexler.
 
 ## Textbooks
