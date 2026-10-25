@@ -99,6 +99,7 @@ Please be respectful of the people who have created these resources. If you want
 * [Learning Chemical Engineering](https://learnche.org/) - by Kevin Dunn, former professor at McMaster University.
 * [MATLAB Start to Finish](https://jacksonburns.github.io/MATLAB-Start-to-Finish/) - MATLAB-focused primer for undergraduate thermodynamics students by Jackson Burns and contributors.
 * [Open ChemE](https://opencheme.github.io/) - open resources compiled at the University of British Columbia.
+* [Scivra](https://www.scivra.com/) - Free interactive 3D virtual chemistry (and physics/biology) labs for high school / pre-university students, browser-based.
 * [TeachOpenCADD](https://projects.volkamerlab.org/teachopencadd/index.html) - a teaching platform for computer-aided drug design by the Volkamer Lab.
 * [Visual Encyclopedia of Chemical Engineering Equipment](https://encyclopedia.che.engin.umich.edu/) - from the University of Michigan. Articles, photographs, drawings, animations, and videos that demonstrate what equipment looks like and how it works.
 
