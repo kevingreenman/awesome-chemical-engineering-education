@@ -89,6 +89,7 @@ Please be respectful of the people who have created these resources. If you want
 
 ## Websites
 
+* [AgentFEM heat-conduction exercises](https://lab.haoming-luo.com/learn/en.html#steady) - worked steady and transient conduction exercises with AI-assisted finite-element calculations, reference results, Fourier-law checks, and time-step comparisons.
 * [AIChE Academy](https://www.aiche.org/academy) - online courses, webinars, and more from the American Institute of Chemical Engineers.
 * [AIChE Concepts Warehouse](https://conceptwarehouse.tufts.edu/cw/CW.php) - Tufts University / Oregon State University.
 * [ASEE Chemical Engineering Division - Resources - Where to start?](http://ched.asee.org/resources/) - list of teaching resources.
