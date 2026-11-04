@@ -107,6 +107,7 @@ Please be respectful of the people who have created these resources. If you want
 * [ChemEng Solved](https://github.com/asanet/chemeng-solved) - Classic problems in chemical engineering solved with matlab.
 * [Chemics](https://github.com/wigging/chemics) - Python package for chemistry and chemical engineering applications.
 * [Clapeyron.jl](https://github.com/ClapeyronThermo/Clapeyron.jl) - Julia package for thermodynamic property calculations / equations of state.
+* [engineering-tables](https://github.com/davidmashiah/engineering-tables) - JavaScript package for water and steam properties (IAPWS-IF97), with printable steam tables and a steam calculator built on it.
 * [OpSim](https://github.com/opsim/opsim) - open source Chemical Engineering Process Simulator with a user friendly drag-and-drop graphical user interface and an underlying high performance simulation engine.
 * [Process Dynamics Engine](https://github.com/OpenChemE/Process-Dynamics-Engine) - online, real-time simulator for process control models described by transfer functions or state space representations.
 * [pychemqt](https://github.com/jjgomera/pychemqt) - free software tool for calculation and design of unit operations in chemical engineering.
