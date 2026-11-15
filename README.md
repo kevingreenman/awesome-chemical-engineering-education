@@ -93,6 +93,7 @@ Please be respectful of the people who have created these resources. If you want
 * [AIChE Concepts Warehouse](https://conceptwarehouse.tufts.edu/cw/CW.php) - Tufts University / Oregon State University.
 * [ASEE Chemical Engineering Division - Resources - Where to start?](http://ched.asee.org/resources/) - list of teaching resources.
 * [CACHE](https://cache.org/teaching-resources-center) - Computer Aids for Chemical Engineering Education teaching resource center.
+* [carboncarbon.bond](https://carboncarbon.bond/) - free introductory organic chemistry lessons with structure drawings and 3D models from PubChem and a quick check after each section.
 * [Chemical Engineering Guy](https://www.chemicalengineeringguy.com/) - website with paid online courses. Also has a [YouTube channel](https://www.youtube.com/@ChemicalEngineeringGuy).
 * [Chempirical](https://chempirical.com/tools/) - free browser calculators for fractional distillation (Fenske plates, azeotrope warnings), vapour pressure from NIST Antoine constants, boiling point at reduced pressure, and stoichiometry, with physical data for 48,000 compounds.
 * [LearnChemE](https://learncheme.com/) - extensive collection of screencasts, simulations, modules, virtual labs, etc. from the University of Colorado Boulder (also on [YouTube](https://www.youtube.com/@LearnChemE)).
