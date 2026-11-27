@@ -138,6 +138,7 @@ People and organizations on GitHub who have multiple repositories related to che
 ## General Jupyter Education
 
 * [Teaching and Learning with Jupyter](https://jupyter4edu.github.io/jupyter-edu-book/)
+- [AshuTeacher](https://ashuteacher.vercel.app) - AI-powered learning PWA & Android app (freemium) with an interactive voice blackboard tutor in 24+ languages, exam paper solver, adaptive quizzes, and a Project, Thesis & Research Studio.
 * [nbgrader](https://github.com/jupyter/nbgrader) - A system for assigning and grading Jupyter notebooks.
 
 ## Miscellaneous
